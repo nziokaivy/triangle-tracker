@@ -1,4 +1,12 @@
-input {
+body {
+  background-image:url(images/background6.jpeg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  height: 100vh;
+}
+
+  input {
   width: 10%;
   padding: 12px 20px;
   margin: 10px 0;
@@ -6,10 +14,16 @@ input {
 }
 
 input[type=number] {
-  border: 2px solid red;
+  border-bottom: 2px solid red;
   border-radius: 4px;
+  align-items: center;
+
 }
 input[type=submit] {
   background-color: #800000;
   color: white;
+}
+
+p {
+  font-size: 30px;
 }
