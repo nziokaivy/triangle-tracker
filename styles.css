@@ -26,12 +26,13 @@ button[type=submit] {
   text-decoration: none;
   margin: 10px 2px;
   border-radius: 80px;
+  align-content: center;
 }
 
 p {
   font-size: 30px;
 }
 
-#inputs {
-
+.entries {
+  text-align: center;
 }
