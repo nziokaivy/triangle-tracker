@@ -19,11 +19,18 @@ input[type=number] {
   align-items: center;
 
 }
-input[type=submit] {
+button[type=submit] {
   background-color: #800000;
   color: white;
+  padding: 16px 30px;
+  text-decoration: none;
+  margin: 10px 2px;
 }
 
 p {
   font-size: 30px;
+}
+
+#inputs {
+
 }
