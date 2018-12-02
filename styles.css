@@ -11,7 +11,7 @@ body {
   padding: 12px 20px;
   margin: 10px 0;
   box-sizing: border-box;
-  font-size: 20px;
+  font-size: 30px;
 }
 
 input[type=number] {
@@ -29,8 +29,9 @@ button[type=submit] {
 }
 
 p {
-  font-size: 30px;
+  font-size: 50px;
   text-align: center;
+  font-family: "Roboto", sans-serif;
 }
 
 .entries {
