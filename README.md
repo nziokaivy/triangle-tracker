@@ -20,7 +20,7 @@ The project runs on a browser,It is a calculator that is configured to take in t
 Here is a link to a live demo:[id]:https://nziokaivy.github.io/triangle-tracker/
 
 ## Setup/Installation Requirements
-Install triangle-tracker-js by cloning this repository: https://github.com/nziokaivy/triangle-tracker/tree/roughwork
+Install triangle-tracker by cloning this repository: https://github.com/nziokaivy/triangle-tracker/tree/roughwork
 
 ## Bugs
 Incase of any bugs:-
