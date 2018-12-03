@@ -1,8 +1,8 @@
 function triangleType() {
-var sides = []
-sides.push(document.getElementById("A").value);
-sides.push(document.getElementById("B").value);
-sides.push(document.getElementById("C").value);
+var sides = ["","",""]
+sides.push(parseInt(document.getElementById("A").value));
+sides.push(parseInt(document.getElementById("B").value));
+sides.push(parseInt(document.getElementById("C").value));
 
 var one = sides[0]
 var two = sides[1]
