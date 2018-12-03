@@ -12,7 +12,6 @@ The project runs on a browser,It is a calculator that is configured to take in t
 |Behaviour| Input | Output|
 |---------|-------|-------|
 |Input of different values|4,6,3 | Scalene Triangle|
-
 |Input of two equal values |6,8,8 |Isosceles Triangle|
 |Input of three equal values |9,9,9 |Equilateral Triangle|
 |Input of two sides than are not greater than the third|1,2,3|Not a triangle|
